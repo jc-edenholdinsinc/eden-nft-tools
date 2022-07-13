@@ -1,1 +1,1 @@
-# nft-tracker-app
+# eden-nft-tools
